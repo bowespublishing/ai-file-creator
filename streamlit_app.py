@@ -8,7 +8,7 @@ import streamlit as st
 BRAND_NAME   = "AI File Creator (Bonus)"
 TAGLINE      = "We’re carrying out scheduled improvements."
 ETA          = None  # Free text, e.g. "Today, 6 PM (UK)" (also override with ?eta=...)
-ETA_ISO      = "2025-08-22T18:00"  # ISO 8601 for countdown, e.g. "2025-08-21T18:00" (or ?eta_iso=...)
+ETA_ISO      = "2025-08-21T18:00"  # ISO 8601 for countdown, e.g. "2025-08-21T18:00" (or ?eta_iso=...)
 CONTACT_EMAIL = "bowespublishing@gmail.com"
 TWITTER_URL   = None  # e.g., "https://x.com/yourhandle"
 STATUS_URL    = None  # e.g., "https://status.yourdomain.com"
