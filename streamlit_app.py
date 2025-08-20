@@ -3,7 +3,7 @@ import os
 import streamlit as st
 
 # ——— Settings you can tweak ———
-BRAND_NAME = "AI Story Press"
+BRAND_NAME = "AI File Creator (Bonus)"
 TAGLINE = "We’re polishing things behind the scenes."
 ETA = None  # e.g., "Today, 6 PM (UK)" — or pass ?eta=Today%206%20PM in the URL
 CONTACT_EMAIL = "bowespublishing@gmail.com"  # change to your real inbox
